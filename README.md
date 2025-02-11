@@ -37,10 +37,12 @@ python dataset_download.py
 
 ```
 Directory structure:
-└── rawatrahul14-credit-card-fraud-detection/
+└── credit-card-fraud-detection/
     ├── README.md
     ├── app.py
+    ├── dataset_download.py
     ├── model_training.py
+    ├── requirements.txt
     ├── research.ipynb
     ├── Lists/
     │   ├── categories.pkl
